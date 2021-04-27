@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nwise
-- 👀 I’m interested in APIs, Mindfulness, how humans think
+- 👀 I’m interested in APIs, Mindfulness, how humans think, video & board games and music.
 - 🌱 I’m eternally learning 
 
 <!---
