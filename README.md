@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nwise
 - 👀 I’m interested in APIs, Mindfulness, how humans think, video & board games and music.
-- 🌱 I’m eternally learning 
+- 🌱 I’m stil learning 
 
 <!---
 nwise/nwise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
